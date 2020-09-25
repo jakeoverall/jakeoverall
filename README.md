@@ -11,15 +11,15 @@
 
 <p align="center">
   <a href="https://boisecodeworks.com" target="_blank">
-    <img alt="CodeWorks" src="https://bcw.blob.core.windows.net/public/img/www/assets/codeworks-circle-colored.png" height="200" />
+    <img alt="CodeWorks" src="https://bcw.blob.core.windows.net/public/img/www/assets/codeworks-circle-colored.png" height="100" />
   </a>
   <span>&nbsp;</span>
   <a href="https://open.spotify.com/show/5iDwn9sntA8dlZVPCNCAwZ" target="_blank">
-    <img alt="The Dev Team" src="https://bcw.blob.core.windows.net/public/img/thedevteam-logo.png" height="200" />
+    <img alt="The Dev Team" src="https://bcw.blob.core.windows.net/public/img/thedevteam-logo.png" height="100" />
   </a>
   <span>&nbsp;</span>
   <a href="https://atlasworlds.com" target="_blank">
-    <img alt="atlas worlds" src="https://media.atlasworlds.com/public/assets/img/logos/mark.png" height="200" />
+    <img alt="atlas worlds" src="https://media.atlasworlds.com/public/assets/img/logos/mark.png" height="100" />
   </a>
 </p>
 
