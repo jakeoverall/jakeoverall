@@ -5,7 +5,7 @@
 
 <h5 align="center">
   <a href="https://www.npmjs.com/~joverall22">
-    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-12,758-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=joverall22"/>
+    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-13,681-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=joverall22"/>
   </a>
 </h5>
 
@@ -26,16 +26,12 @@
 ---
 
 
-
----
-
-
 <div>
-  <a href="/" align="left">
+  <a href="https://github.com/jakeoverall/jakeoverall" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeoverall&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
 
-  <a href="/" align="right">
+  <a href="https://github.com/jakeoverall/jakeoverall" align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=jakeoverall&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
   </a>
 </div>
