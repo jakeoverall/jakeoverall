@@ -1,3 +1,5 @@
+![me](me.jpg)
+
 <h2 align="center">Hi there, 👋 I am Jake Overall! 😎</h2>
 
 <h4 align="center">I love coding and educating new developers!</h4>
