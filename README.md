@@ -1,5 +1,10 @@
 ![me](me.jpg)
 
+<a href="https://jakeoverall.github.io" target="_blank">
+  <img src="cat_kp_dm.gif" height="50">
+</a>
+
+
 <h2 align="center">I 💖 Coding and Educating!</h2>
 
 From "Hello, World!" My passion for development has only grown. The critical thinking that coding demands in building each attribute of an application that is user friendly, functional, secure, and visually appealing is thrilling. I love the continuous learning and creativity that comes with being a software engineer.
