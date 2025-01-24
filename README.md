@@ -12,7 +12,7 @@ I am a Microsoft Certified Professional, an award winning VR Developer and have 
 
 I am an active member and organizer of two technical meetup groups and believe in the importance of giving back to the community through networking opportunities and education. 
   
-As an Entrepreneur and Founder of [CodeWorks](https://boisecodeworks.com), a development bootcamp, I have over 6 years of experience running a company as the CEO. I also am an instructor and teach people the skills needed to become Software Developers and Cyber Security Professionals. As the Head Instructor I have designed the CodeWorks curriculum to stay focused on real world needs. 
+As an Entrepreneur and Founder of [CodeWorks](https://boisecodeworks.com), a development bootcamp, I have over 10 years of experience running a company as the CEO. I also am an instructor and teach people the skills needed to become Software Developers and Cyber Security Professionals. As the Head Instructor I have designed the CodeWorks curriculum to stay focused on real world needs. 
 
 Ultimately I love to see the success of my students as they learn the skills they need to start working in the tech industry. I have seen people from various backgrounds, Roofers, Steelworkers leave their dangerous, labor intensive careers and find success with the education that we provide to them at CodeWorks as they Develop Their Future.
 
@@ -21,7 +21,7 @@ For fun I am one of the hosts of <a href="https://open.spotify.com/show/5iDwn9sn
 
 <h5 align="center">
   <a href="https://www.npmjs.com/~joverall22">
-    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-52,125-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=joverall22"/>
+    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-72,982-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=joverall22"/>
   </a>
 </h5>
 
