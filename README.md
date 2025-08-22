@@ -4,6 +4,11 @@
   <img src="cat_kp_dm.gif" height="50">
 </a>
 
+![tyrant](tyrant.gif) 
+## Game Development
+
+I love building games with unity. Check it out [check out my game on steam](https://store.steampowered.com/app/681360/Song_Samurai/) 
+
 <h2 align="center">I 💖 Coding and Educating!</h2>
 
 From "Hello, World!" My passion for development has only grown. The critical thinking that coding demands in building each attribute of an application that is user friendly, functional, secure, and visually appealing is thrilling. I love the continuous learning and creativity that comes with being a software engineer.
